@@ -1,0 +1,24 @@
+.first-header{
+  display: flex;
+  justify-content: center;
+}
+
+.mainheader{
+  display: flex;
+}
+
+.content1 {
+  display: flex;
+  margin-left: 100px;
+  width: 569px;
+  height: 416px;
+}
+
+.content2{
+  display: flex;
+  width:488px;
+  height: 920px;
+  margin-left: 500px;
+  margin-top: -625px;
+
+}
